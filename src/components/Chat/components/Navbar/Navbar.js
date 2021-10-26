@@ -37,7 +37,7 @@ const Navbar = () => {
 
   return (
     <div id="navbar" className="card-shadow">
-      <h2>Chat.io</h2>
+      <h2>OrkaBit Messenger</h2>
       <div
         onClick={() => setShowProfileOptions(!showProfileOptions)}
         id="profile-menu"
